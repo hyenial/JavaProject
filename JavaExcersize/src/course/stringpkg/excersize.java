@@ -1,6 +1,6 @@
 package course.stringpkg;
 import java.util.Locale;
-public class excersize {
+public class Excersize {
 
 
 
